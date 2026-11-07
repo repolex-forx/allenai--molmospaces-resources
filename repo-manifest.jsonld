@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/molmospaces-resources/commit/55b3c508a5cec4655eee640f0cfa29a8ad3d6078",
       "git:hexsha": "55b3c508a5cec4655eee640f0cfa29a8ad3d6078",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.0.3a5"
     },
     {
