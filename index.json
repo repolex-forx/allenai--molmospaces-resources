@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "molmospaces-resources",
+  "versions": [
+    {
+      "commit": "55b3c508a5cec4655eee640f0cfa29a8ad3d6078",
+      "tag": "0.0.3a5",
+      "parsed_at": "2026-11-07T20:36:09.900549+00:00"
+    }
+  ]
+}
